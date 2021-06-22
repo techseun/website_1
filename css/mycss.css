@@ -1,0 +1,13 @@
+.banner{
+background:url(../images/banner.jpg);
+height:250px;
+border:solid 2px darkgray;
+}
+
+.banner_2{
+background:#000;
+color:lightgray;
+font-size:3em;text-align:center;
+height:250px;
+border:solid 2px darkgray;
+}
